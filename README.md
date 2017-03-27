@@ -46,6 +46,8 @@ ii  nvidia-375-dev                        375.39-0ubuntu0.16.04.1               
 sudo nvidia-docker build -t docker-deeplearning-1 ./
 ```
 
+## docker run
+
 ---
 
 ```
